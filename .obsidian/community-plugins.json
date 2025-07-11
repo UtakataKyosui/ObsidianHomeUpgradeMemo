@@ -1,5 +1,8 @@
 [
   "obsidian-git",
   "github-embeds",
-  "file-ignore"
+  "file-ignore",
+  "obsidian-minimal-settings",
+  "highlightr-plugin",
+  "obsidian-kanban"
 ]

@@ -11,14 +11,14 @@
             "id": "a48617538eb9af4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "WorkingDesk/デスク下もしくはデスク側面の収納拡張.md",
-                "mode": "source",
-                "source": false
+                "aFile": "無題のカンバン.md",
+                "bFile": "無題のカンバン.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "デスク下もしくはデスク側面の収納拡張"
+              "icon": "diff",
+              "title": "Diff: 無題のカンバン"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WorkingDesk/デスク下もしくはデスク側面の収納拡張.md",
+                "file": "CardBoard/配達の使いすぎで量がやばい.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "デスク下もしくはデスク側面の収納拡張へのバックリンク"
+              "title": "配達の使いすぎで量がやばいへのバックリンク"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WorkingDesk/デスク下もしくはデスク側面の収納拡張.md",
+                "file": "CardBoard/配達の使いすぎで量がやばい.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "デスク下もしくはデスク側面の収納拡張からのアウトゴーイングリンク"
+              "title": "配達の使いすぎで量がやばいからのアウトゴーイングリンク"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WorkingDesk/デスク下もしくはデスク側面の収納拡張.md",
+                "file": "CardBoard/配達の使いすぎで量がやばい.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "デスク下もしくはデスク側面の収納拡張のアウトライン"
+              "title": "配達の使いすぎで量がやばいのアウトライン"
             }
           },
           {
@@ -190,20 +190,30 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "github-sync:Sync with Remote": false,
       "obsidian-git:Open Git source control": false,
-      "markdown-importer:Markdownインポーターを開く": false
+      "markdown-importer:Markdownインポーターを開く": false,
+      "obsidian-kanban:カンバンボードを新規作成": false
     }
   },
   "active": "a48617538eb9af4b",
   "lastOpenFiles": [
+    "無題のカンバン.md",
+    "Cable/散らばりすぎ問題.md",
+    "WorkingDesk/デスク下もしくはデスク側面の収納拡張.md",
     "WorkingDesk/デスク周り汚い問題.md",
     "SwitchBot/ドアロック.md",
     "SwitchBot/カーテン.md",
     "Recommend/おすすめのメーカー.md",
-    "OfficeWork/ノートPCスタンド.md",
     "Keyboard/HHKB STUDIO 日本語配列 墨.md",
-    "WorkingDesk/デスク下もしくはデスク側面の収納拡張.md",
+    "OfficeWork/ノートPCスタンド.md",
+    "CardBoard/配達の使いすぎで量がやばい.md",
+    "Bug/虫飛びすぎ.md",
+    "無題のファイル.md",
+    "InProgress",
+    "Done",
+    "Bug",
+    "CardBoard",
+    "Cable",
     "Keyboard",
     "OfficeWork",
     "SwitchBot",
