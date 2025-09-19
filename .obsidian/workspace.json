@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "776b1f4fc9074fc1",
+        "id": "d8c73aabc254469e",
         "type": "tabs",
         "children": [
           {
-            "id": "a48617538eb9af4b",
+            "id": "90dd6496e0f479b4",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "無題のカンバン.md",
-                "bFile": "無題のカンバン.md",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 無題のカンバン"
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -195,8 +195,9 @@
       "obsidian-kanban:カンバンボードを新規作成": false
     }
   },
-  "active": "a48617538eb9af4b",
+  "active": "6626ef499ea83e05",
   "lastOpenFiles": [
+    "荷解きが終わっていない！.md",
     "無題のカンバン.md",
     "Cable/散らばりすぎ問題.md",
     "WorkingDesk/デスク下もしくはデスク側面の収納拡張.md",
@@ -208,7 +209,6 @@
     "OfficeWork/ノートPCスタンド.md",
     "CardBoard/配達の使いすぎで量がやばい.md",
     "Bug/虫飛びすぎ.md",
-    "無題のファイル.md",
     "InProgress",
     "Done",
     "Bug",
